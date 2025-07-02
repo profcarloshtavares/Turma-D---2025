@@ -16,3 +16,10 @@ header{
     font-size: 32px;
     color:rgb(11, 250, 3) ;
 }
+section{
+    background: rgb(248, 67, 1);
+    padding-top:80px;
+    padding-bottom:80px;
+    display: flex;
+    justify-content: center;
+}
